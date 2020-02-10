@@ -1,0 +1,2 @@
+# root directory에 있는 파일만 ignore
+/ignoretest[0-9]
